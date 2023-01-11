@@ -1,0 +1,29 @@
+{
+  "name": "js-spider",
+  "version": "1.0.0",
+  "description": "Asynchronous programming",
+  "main": "spider-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ngufuli/js-spider.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Nicodemus Peter Ngufuli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ngufuli/js-spider/issues"
+  },
+  "homepage": "https://github.com/Ngufuli/js-spider#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mkdirp": "^1.0.4",
+    "path": "^0.12.7",
+    "superagent": "^8.0.6",
+    "utils": "^0.3.1"
+  }
+}
